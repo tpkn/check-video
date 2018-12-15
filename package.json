@@ -1,0 +1,19 @@
+{
+   "name": "check-video",
+   "main": "check-video.js",
+   "version": "1.0.0",
+   "author": {
+      "url": "https://github.com/tpkn/"
+   },
+   "repository": "https://github.com/tpkn/check-video",
+   "license": "MIT",
+   "keywords": [
+      "ffmpeg",
+      "ffprobe",
+      "video",
+      "check",
+      "errors",
+      "file",
+      "duration"
+   ]
+}
