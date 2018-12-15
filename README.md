@@ -18,6 +18,7 @@ npm install check-video
 Path to the video file
 
 
+### options.bin
 **Type**: _String_  
 **Default**: `ffmpeg`  
 Path to [ffmpeg](http://ffmpeg.org/download.html) binary file  
