@@ -14,7 +14,7 @@ npm install check-video
 ### CheckVideo(file[, options])
 
 ### file
-**Type**: _String_
+**Type**: _String_   
 Path to the video file
 
 
