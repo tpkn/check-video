@@ -1,4 +1,4 @@
-# Check Video   
+# Check Video [![npm Package](https://img.shields.io/npm/v/check-video.svg)](https://www.npmjs.org/package/check-video)
 Test video for errors using NodeJS and FFMpeg
 
 
