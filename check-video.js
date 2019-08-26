@@ -1,7 +1,6 @@
 /*!
  * Check Video, http://tpkn.me/
  */
-
 const util = require('util');
 const exec = util.promisify(require('child_process').exec);
 
@@ -10,7 +9,7 @@ async function checkVideo(file, options = {}){
    let errors = [];
 
    try {
-      let { stderr } = await exec(`${bin} -v error -i "${file}" -f null - `, { maxBuffer: buffer * 1024 });
+      let { stderr } = await exec(`"${bin}" -v error -i "${file}" -f null - `, { maxBuffer: buffer * 1024 });
       if(stderr){
          errors.push(stderr);
       }
