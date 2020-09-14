@@ -1,7 +1,7 @@
 {
    "name": "check-video",
    "main": "check-video.js",
-   "version": "1.0.1",
+   "version": "1.0.2",
    "author": {
       "url": "https://github.com/tpkn/"
    },

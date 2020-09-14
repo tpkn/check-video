@@ -48,3 +48,9 @@ CheckVideo(video, { bin: './bin/ffmpeg.exe' }).then(errors => {
 
 ```
 
+#### v1.0.2:
+- security fix
+
+
+
+
